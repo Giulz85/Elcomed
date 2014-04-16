@@ -1,0 +1,5 @@
+D:\ProgettiTest\Elcomed\Elcomed\bin\Debug\Elcomed.dll.config
+D:\ProgettiTest\Elcomed\Elcomed\bin\Debug\Elcomed.dll
+D:\ProgettiTest\Elcomed\Elcomed\bin\Debug\Elcomed.pdb
+D:\ProgettiTest\Elcomed\Elcomed\obj\Debug\Elcomed.dll
+D:\ProgettiTest\Elcomed\Elcomed\obj\Debug\Elcomed.pdb

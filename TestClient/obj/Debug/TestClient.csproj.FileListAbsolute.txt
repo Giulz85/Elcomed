@@ -1,0 +1,5 @@
+D:\ProgettiTest\Elcomed\TestClient\bin\Debug\TestClient.dll.config
+D:\ProgettiTest\Elcomed\TestClient\bin\Debug\TestClient.dll
+D:\ProgettiTest\Elcomed\TestClient\bin\Debug\TestClient.pdb
+D:\ProgettiTest\Elcomed\TestClient\obj\Debug\TestClient.dll
+D:\ProgettiTest\Elcomed\TestClient\obj\Debug\TestClient.pdb

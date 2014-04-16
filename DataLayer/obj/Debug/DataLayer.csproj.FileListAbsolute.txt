@@ -1,0 +1,6 @@
+D:\ProgettiTest\Elcomed\DataLayer\bin\Debug\DataLayer.dll
+D:\ProgettiTest\Elcomed\DataLayer\bin\Debug\DataLayer.pdb
+D:\ProgettiTest\Elcomed\DataLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\ProgettiTest\Elcomed\DataLayer\obj\Debug\DataLayer.dll
+D:\ProgettiTest\Elcomed\DataLayer\obj\Debug\DataLayer.pdb
+D:\ProgettiTest\Elcomed\DataLayer\bin\Debug\DataLayer.dll.config
